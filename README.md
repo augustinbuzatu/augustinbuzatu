@@ -1,6 +1,10 @@
+
 ### Hi, I'm Augustin 👋
 
-CS student @ ASE Bucharest, learning software development.
-Currently exploring AI engineering (Python), Java, SQL and C#.
+Cybernetics student @ ASE Bucharest, focused on SAP development – cloud apps on SAP BTP that extend S/4HANA, with CAP and ABAP.
 
-Connect with me via https://www.linkedin.com/in/augustin-buzatu/ or via email at augustinbuzatu@gmail.com
+AI is still my core interest, with programming as the foundation: TypeScript, Java, C#, SQL, Python.
+
+📫 [LinkedIn](https://www.linkedin.com/in/augustin-buzatu/) · augustinbuzatu@gmail.com
+
+
